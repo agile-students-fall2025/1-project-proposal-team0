@@ -1,3 +1,5 @@
 # Project Proposal
 
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+Spin！
+
+An Spinner application that helps users make small decisions, also includes customize user inputs such as “What should I eat tonight?”, and the app randomly selects one, presented with a spinner animation. The app can also save past decisions for reference.
